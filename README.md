@@ -8,7 +8,7 @@
 
 <p align="center">
 
- <img src="https://api.visitorbadge.io/api/visitors?path=CYBER-PYSCHO&label=2077&labelColor=%FF000080&countColor=%025A5F">
+ <img src="https://api.visitorbadge.io/api/visitors?path=CYBER-PYSCHO&label=edgerunner&labelColor=%FF000080&countColor=%025A5F">
 <p align="center">
  
  

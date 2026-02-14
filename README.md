@@ -1,7 +1,7 @@
 # " my moon, my man . "
 
 <p align="center">
-<img src="https://api.visitorbadge.io/api/visitors?path=CYBER-PYSCHO&label=2077&labelColor=%FF000080&countColor=%23916b00">
+<img src="https://api.visitorbadge.io/api/visitors?path=CYBER-PYSCHO&label=2077&labelColor=%FF000080&countColor=%025A5F">
 <p align="center">
  
  

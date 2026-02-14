@@ -4,7 +4,7 @@
 
 <p align="center"
 
-# $${\color{pink} "mymoonmyman" \}$$
+# $${\color{pink} "my moon, my man" \}$$
 
 <p align="center">
 

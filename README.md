@@ -4,7 +4,7 @@
 
 <p align="center"
 
-# $${\color{pink} " 𝓂𝓎-𝓂𝑜𝑜𝓃-𝓂𝓎-𝓂𝒶𝓃 . " \}$$
+# $${\color{pink} "mymoonmyman" \}$$
 
 <p align="center">
 
@@ -15,3 +15,4 @@
 <img width="500" height="500" alt="Untitled2032_20260213201719" src="https://github.com/user-attachments/assets/ab0efbb3-2305-4a6e-9940-40c146707950" />
  <div align="center"> 
 
+![IMG_4472](https://github.com/user-attachments/assets/a214692e-d535-4624-bb3e-874f3e5f6896)

@@ -1,4 +1,4 @@
-***CHANGING SOON. ***
+***CHANGING SOON.***
 
 <p align="center"
 

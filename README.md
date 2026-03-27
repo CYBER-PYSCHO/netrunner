@@ -19,11 +19,15 @@
  
  
 <img width="790" height="565" alt="Untitled2077_20260326204929" src="https://github.com/user-attachments/assets/b31781ba-e65a-41c8-8259-6c1c0ae678c0" />
+ <div align="center"> 
+  
+<img width="90" height="90" alt="Untitled2077_20260326204929"
+src=https://github.com/user-attachments/assets/3a43a8fd-859a-4039-9db8-816e21de34d2 />
 
  <div align="center"> 
 
-[ρrɳs.૮૮](https://pronouns.cc/@cyberpunk)
+links will be placed here wait paitently thank you <3
 <p align="center">
 
 
-![IMG_5046](https://github.com/user-attachments/assets/8356361f-4327-4234-8e35-d7de601b4952)
+img here 

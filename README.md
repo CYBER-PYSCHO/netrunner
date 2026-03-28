@@ -26,7 +26,7 @@ src=https://github.com/user-attachments/assets/3a43a8fd-859a-4039-9db8-816e21de3
 
  <div align="center"> 
 
-$\color{red}{\textsf{look at prns for **ALL** ponytown information before interacting with me!}}$
+$\color{red}{\textsf{look at prns for ponytown information before interacting with me!}}$
 
 [𝗮𝘁𝗮](https://animacity.atabook.org) ⠀ ⠀ [𝗽𝗿𝗻𝘀.𝗰𝗰](https://pronouns.cc/@silverwolf.) ⠀ ⠀ ♡
 <p align="center">
